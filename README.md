@@ -316,6 +316,9 @@ cannot be purchased down to 70 strength
 Rocket artillery
 80 ranged strength, 125% bonus vs cities
 
+Nuclear missile
+cannot be purchased
+
 Helicopter
 +200% strength vs armored units
 
