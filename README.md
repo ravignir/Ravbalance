@@ -124,7 +124,7 @@ piety complete
 free great prophet
 free garden in first 4 cities
 2 culture 3 faith, 1 food and 1 production from holy sites.
-may buy engineers, artists, generals and merchants.
+-25% faith cost of generating prophets
 
 patronage complete
 +50% culture/food/happiness/faith fom city states.
