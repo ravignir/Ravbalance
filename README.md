@@ -491,9 +491,6 @@ Feed the World
 Guruship
 +2 production +2 faith if city has specialist
 
-Holy Warriors
-Lasts until atomic era
-
 Liturgical Drama
 +2 faith from amphitheaters
 
