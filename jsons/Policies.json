@@ -399,9 +399,9 @@
                 "uniques": [
                     "[Gold] cost of purchasing items in cities [-25]%",
                     "[+10]% [Science] from every [Mint]",
-                    "[+1 Science] from every [Market]",
-                    "[+1 Science] from every [Bank]",
-                    "[+1 Science] from every [Stock Exchange]"
+                    "[+10]% [Science] from every [Market]",
+                    "[+10]% [Science] from every [Bank]",
+                    "[+10]% [Science] from every [Stock Exchange]"
                 ],
                 "requires": ["Trade Unions"],
                 "row": 2,
