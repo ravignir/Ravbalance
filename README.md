@@ -311,7 +311,7 @@ Anti tank gun
 +200% bonus vs tanks
 
 Atomic bomb
-cannot be purchased down to 70 strength
+cannot be purchased down to 50 strength and removed evade, now counts as a regular bomber 
 
 Rocket artillery
 80 ranged strength, 125% bonus vs cities
@@ -324,9 +324,6 @@ Helicopter
 
 Modern Armor
 110 strength, +50% bonus vs land units
-
-Jet Fighter
-+150% interception bonus vs atomic bombers
 
 Great People
 3 movement all.
