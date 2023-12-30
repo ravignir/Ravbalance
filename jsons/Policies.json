@@ -399,10 +399,10 @@
                 "name": "Mercantilism",
                 "uniques": [
                     "[Gold] cost of purchasing items in cities [-25]%",
-                    "[+10]% [Science] from every [Mint]",
-                    "[+10]% [Science] from every [Market]",
-                    "[+10]% [Science] from every [Bank]",
-                    "[+10]% [Science] from every [Stock Exchange]"
+                    "[+5]% [Gold] from every [Mint]",
+                    "[+5]% [Gold] from every [Market]",
+                    "[+10]% [Gold] from every [Bank]",
+                    "[+15]% [Gold] from every [Stock Exchange]"
                 ],
                 "requires": ["Trade Unions"],
                 "row": 2,
