@@ -280,10 +280,8 @@
                    "Free [Great Prophet] appears",
                     "[+2 Culture, +3 Faith, +1 Food, +1 Production] from every [Holy site]",
                     "Provides a [Garden] in your first [4] cities for free",
-                    "May buy [Great Engineer] units for [1000] [Faith] [in capital] at an increasing price ([500]) <starting from the [Industrial era]>",
-                    "May buy [Great General] units for [1000] [Faith] [in capital] at an increasing price ([500]) <starting from the [Industrial era]>",
-                    "May buy [Great Artist] units for [1000] [Faith] [in capital] at an increasing price ([500]) <starting from the [Industrial era]>",
-                    "May buy [Great Merchant] units for [1000] [Faith] [in capital] at an increasing price ([500]) <starting from the [Industrial era]>"
+			"[-25]% Faith cost of generating Great Prophet equivalents"
+			
                 ]
             }
         ]
