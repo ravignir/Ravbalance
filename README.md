@@ -114,6 +114,7 @@ theocracy
 
 reformation
 choose additional enhancer belief when/after founding religion
++1 happiness from temples
 
 free religion
 1 culture 1 faith in all cities
@@ -133,7 +134,7 @@ Merchant Navy
 also +3 gold in coastal cities
 
 Mercantilism
-+10% science instead of +1 science per mint/market/bank/stock exchange
++5/5/10/15% gold instead of +1 science per mint/market/bank/stock exchange
 
 Commerce Complete
 also +1 science from trading posts
@@ -279,7 +280,7 @@ Gatling Gun
 27/27 and 2 range
 
 Artillery
-requires Iron, just 1 movement
+requires 2 Iron, 21/28>19/33, 150% bonus vs cities.
 
 Triplane
 40/40
