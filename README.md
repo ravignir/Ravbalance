@@ -2,7 +2,10 @@ GENERAL
 
 +2 food / +2 production from city centers 
 up to 7 coast count as lakes vs 10
+
 15 faith to start pantheon
+
+CS start with military unit
 
 
 Civilizations:
