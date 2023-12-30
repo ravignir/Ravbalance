@@ -311,7 +311,7 @@ Anti tank gun
 +200% bonus vs tanks
 
 Atomic bomb
-cannot be purchased down to 50 strength and removed evade, now counts as a regular bomber 
+cannot be purchased down to 45 strength and removed evade, now counts as a regular bomber 
 
 Rocket artillery
 80 ranged strength, 125% bonus vs cities
