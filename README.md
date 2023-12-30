@@ -49,7 +49,7 @@ Rome
 + 10% production when constructing buildings in capital.
 
 Siam
-Resting point with CS increased by 5
+Resting point with CS increased by 10
 
 Spain
 No longer gets gold for finding NW
