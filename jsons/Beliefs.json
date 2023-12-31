@@ -143,7 +143,7 @@
     {
         "name": "Asceticism",
         "type": "Follower",
-        "uniques": ["[+1 Happiness] from every [Shrine]", "[+1 Happiness] from every [Temple]"]
+        "uniques": ["[+1 Production] from every [Temple]", "[+1 Happiness] from every [Temple]"]
     },
     {
         "name": "Cathedrals",
