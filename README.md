@@ -485,7 +485,7 @@ also +1 faith from trade routes
 Added BNW pantheons
 
 Asceticism
-+1 happiness from shrines and temples
++1 production from shrines and +2 production from temples
 
 Choral Music
 +3 culture from temples
