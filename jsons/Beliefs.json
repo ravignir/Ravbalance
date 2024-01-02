@@ -322,27 +322,31 @@
     {
         "name": "Charitable Missions",
         "type": "Enhancer",
-        "uniques": ["Only available <after enhancing a religion> <after adopting [Reformation]> <before adopting [Evangelism]> <before adopting [Jesuit Education]> <before adopting [Religious Fervor]> <before adopting [Holy Workers]> <before adopting [To the Glory of God]> <hidden from users>","Gifts of Gold to City-States generate [30]% more Influence"]
+        "uniques": ["Only available <after enhancing a religion> <after adopting [Reformation]> <before adopting [Sacred Sites]> <before adopting [Evangelism]> <before adopting [Jesuit Education]> <before adopting [Religious Fervor]> <before adopting [Holy Workers]> <before adopting [To the Glory of God]> <hidden from users>","Gifts of Gold to City-States generate [30]% more Influence"]
     },
 	{
         "name": "Evangelism",
         "type": "Enhancer",
-        "uniques": ["Only available <after enhancing a religion> <after adopting [Reformation]> <before adopting [Charitable Missions]> <before adopting [Jesuit Education]> <before adopting [Religious Fervor]> <before adopting [Holy Workers]> <before adopting [To the Glory of God]> <hidden from users>","Missionaries remove other religions when spreading religion","[Missionary] units gain the [Evangelist] promotion <hidden from users>"]
+        "uniques": ["Only available <after enhancing a religion> <after adopting [Reformation]> <before adopting [Sacred Sites]> <before adopting [Charitable Missions]> <before adopting [Jesuit Education]> <before adopting [Religious Fervor]> <before adopting [Holy Workers]> <before adopting [To the Glory of God]> <hidden from users>","Missionaries remove other religions when spreading religion","[Missionary] units gain the [Evangelist] promotion <hidden from users>"]
     },
 	{
         "name": "Jesuit Education",
         "type": "Enhancer",
-        "uniques": ["Only available <after enhancing a religion> <after adopting [Reformation]> <before adopting [Charitable Missions]> <before adopting [Evangelism]> <before adopting [Religious Fervor]> <before adopting [Holy Workers]> <before adopting [To the Glory of God]> <hidden from users>","May buy [Science] buildings with [Faith] for [2] times their normal Production cost"]
+        "uniques": ["Only available <after enhancing a religion> <after adopting [Reformation]> <before adopting [Sacred Sites]> <before adopting [Charitable Missions]> <before adopting [Evangelism]> <before adopting [Religious Fervor]> <before adopting [Holy Workers]> <before adopting [To the Glory of God]> <hidden from users>",
+		"May buy [University] buildings with [Faith] for [2] times their normal Production cost",
+		"May buy [Public School] buildings with [Faith] for [2] times their normal Production cost",
+		"May buy [Observatory] buildings with [Faith] for [2] times their normal Production cost",
+		"May buy [Research Lab] buildings with [Faith] for [2] times their normal Production cost"]
     },
 	{
         "name": "Religious Fervor",
         "type": "Enhancer",
-        "uniques": ["Only available  <after enhancing a religion> <after adopting [Reformation]> <before adopting [Charitable Missions]> <before adopting [Evangelism]> <before adopting [Jesuit Education]> <before adopting [Holy Workers]> <before adopting [To the Glory of God]> <hidden from users>","May buy [{Military} {Land}] units with [Faith] for [3] times their normal Production cost <starting from the [Industrial era]>"]
+        "uniques": ["Only available  <after enhancing a religion> <after adopting [Reformation]> <before adopting [Sacred Sites]> <before adopting [Charitable Missions]> <before adopting [Evangelism]> <before adopting [Jesuit Education]> <before adopting [Holy Workers]> <before adopting [To the Glory of God]> <hidden from users>","May buy [{Military} {Land}] units with [Faith] for [3] times their normal Production cost <starting from the [Industrial era]>"]
     },
 	{
         "name": "To the Glory of God",
         "type": "Enhancer",
-        "uniques": ["Only available <after enhancing a religion> <after adopting [Reformation]> <before adopting [Charitable Missions]> <before adopting [Evangelism]> <before adopting [Jesuit Education]> <before adopting [Religious Fervor]> <before adopting [Holy Workers]> <hidden from users>","May buy Great People units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>", 
+        "uniques": ["Only available <after enhancing a religion> <after adopting [Reformation]> <before adopting [Sacred Sites]> <before adopting [Charitable Missions]> <before adopting [Evangelism]> <before adopting [Jesuit Education]> <before adopting [Religious Fervor]> <before adopting [Holy Workers]> <hidden from users>","May buy Great People units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>", 
 		"May buy [Great General] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]> <hidden from users>",
 		"May buy [Great Scientist] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]> <hidden from users>",
 		"May buy [Great Engineer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]> <hidden from users>",
@@ -352,6 +356,21 @@
 	{
         "name": "Holy Workers",
         "type": "Enhancer",
-        "uniques": ["Only available <after enhancing a religion> <after adopting [Reformation]> <before adopting [Charitable Missions]> <before adopting [Evangelism]> <before adopting [Jesuit Education]> <before adopting [Religious Fervor]> <before adopting [To the Glory of God]> <hidden from users>","May buy [Production] buildings with [Faith] for [2] times their normal Production cost"]
+        "uniques": ["Only available <after enhancing a religion> <after adopting [Reformation]> <before adopting [Sacred Sites]> <before adopting [Charitable Missions]> <before adopting [Evangelism]> <before adopting [Jesuit Education]> <before adopting [Religious Fervor]> <before adopting [To the Glory of God]> <hidden from users>",
+		"May buy [Workshop] buildings with [Faith] for [2] times their normal Production cost",
+		"May buy [Windmill] buildings with [Faith] for [2] times their normal Production cost",
+		"May buy [Hydro Plant] buildings with [Faith] for [2] times their normal Production cost",
+		"May buy [Factory] buildings with [Faith] for [2] times their normal Production cost",
+		"May buy [Nuclear Plant] buildings with [Faith] for [2] times their normal Production cost",
+		"May buy [Solar Plant] buildings with [Faith] for [2] times their normal Production cost"]
+    },
+	{
+        "name": "Sacred Sites",
+        "type": "Enhancer",
+        "uniques": ["Only available <after enhancing a religion> <after adopting [Reformation]> <before adopting [Charitable Missions]> <before adopting [Holy Workers]> <before adopting [Evangelism]> <before adopting [Jesuit Education]> <before adopting [Religious Fervor]> <before adopting [To the Glory of God]> <hidden from users>",
+		"[+2 Culture, +2 Faith, +2 Happiness] from every [Pagoda]",
+		"[+2 Culture, +3 Faith, +1 Happiness] from every [Mosque]",
+		"[+2 Culture, +2 Faith] from every [Monastery]",
+		"[+1 Culture, +3 Faith, +1 Happiness] from every [Cathedral]"]
     },
 ]

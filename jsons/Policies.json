@@ -267,7 +267,7 @@
             {
                 "name": "Reformation",
                 "uniques": [
-				"Gain a free [Enhancer] belief <upon turn end> <after enhancing a religion> <before adopting [Evangelism]> <before adopting [Charitable Missions]> <before adopting [Jesuit Education]> <before adopting [Religious Fervor]> <before adopting [Holy Workers]> <before adopting [To the Glory of God]> <hidden from users>",
+				"Gain a free [Enhancer] belief <upon turn end> <after enhancing a religion> <before adopting [Sacred Sites]> <before adopting [Evangelism]> <before adopting [Charitable Missions]> <before adopting [Jesuit Education]> <before adopting [Religious Fervor]> <before adopting [Holy Workers]> <before adopting [To the Glory of God]> <hidden from users>",
 					"Choose a free Reformation Enhancer belief after enhancing a religion",
 			"[+1 Happiness] from every [Temple]"
                 ],
