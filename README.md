@@ -510,3 +510,16 @@ Reliquary
 
 UNIT PROMOTIONS
 Cover now requires 2nd tier promotion and is not available on ranged units
+
+-----------------------------------------------UPDATES---------------------------------------------------------------------
+2% penalty on gold, production and combat strength for each point of unhappiness (capped at -40%)
+Added reformation beliefs and rearranged policies in piety tree.
+Changed defender of the faith and just war bonuses to 10%.
+Changed piety finisher bonus to holy sites. 2c3f1f1p -> 2c4f
+Himeji castle bonuses +15%/+15%->+10%/+10%
+Battering ram replaces catapults (huns still cannot build spearmen!)
+Maori warriors and jaguars correctly upgrade to spearmen
+Landmarks also provide +2 more culture on architecture.
+Utopia Project cost increased to 2000 production.
+guided missile cost reduced to 125.
+
