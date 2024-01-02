@@ -53,7 +53,8 @@
 		"strength": 8,
 		"cost": 40,
 		"obsoleteTech": "Metal Casting",
-		"promotions": ["Haka War Dance"],
+		"promotions": ["Haka War Dance",],
+		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
 	},
@@ -67,6 +68,7 @@
 		"cost": 40,
 		"obsoleteTech": "Metal Casting",
 		"promotions": ["[Jaguar] ability","Woodsman"],
+		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
 	},
@@ -319,7 +321,7 @@
 	{
 		"name": "Battering Ram",
 		"unitType": "Sword", // You might expect this to be a siege unit, but apparently it is not
-		"replaces": "Spearman",
+		"replaces": "Catapult",
 		"uniqueTo": "The Huns",
 		"movement": 2,
 		"strength": 10,
@@ -1480,7 +1482,7 @@
 		"strength": 60,
 		"rangedStrength": 60,
 		"range": 8,
-		"cost": 150,
+		"cost": 125,
 		"requiredTech": "Advanced Ballistics",
 		"uniques": ["[-100]% maintenance costs"],
 		"attackSound": "missile"

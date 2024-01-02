@@ -523,4 +523,9 @@
 					"Doesn't generate naturally <in [Forest] [Hill] tiles>",
 					"Doesn't generate naturally <in [Tundra] [Forest] tiles>"]
 	}
+	{
+        "name": "EnhancerBelief", 
+        "resourceType": "Strategic",
+        "uniques": ["Cannot be traded","Not shown on world screen"]
+    },
 ]

@@ -1,3 +1,1 @@
-{
-    "isBaseRuleset": true,"maxLakeSize":7,"religionLimitBase":0,"religionLimitMultiplier":1,"pantheonBase":15,"pantheonGrowth":0
-}
+{"isBaseRuleset":true,"lastUpdated":"2024-01-01T01:43:53Z","modUrl":"https://github.com/ravignir/Ravbalance","defaultBranch":"main","author":"ravignir","modSize":372,"topics":["unciv-mod","unciv-mod-rulesets"],"constants":{"unitUpgradeCost":{}}}

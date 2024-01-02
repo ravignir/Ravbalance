@@ -204,7 +204,7 @@
 		"culture": 6,
 		"food": 1,
 		"production": 1,
-		"uniques": ["Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]","[+2 Culture] <after discovering [Radio]>"]
+		"uniques": ["Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]","[+2 Culture] <after discovering [Architecture]>","[+2 Culture] <after discovering [Radio]>"]
 	},
 	{
 		"name": "Manufactory",

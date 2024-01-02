@@ -173,7 +173,7 @@
     {
         "name": "Holy Warriors",
         "type": "Follower",
-        "uniques": ["May buy [{Military} {Land}] units with [Faith] for [2] times their normal Production cost <before the [Industrial era]>"]
+        "uniques": ["May buy [{Military} {Land}] units with [Faith] for [3] times their normal Production cost <before the [Industrial era]>"]
     },
     {
         "name": "Liturgical Drama",
@@ -273,48 +273,85 @@
     {
         "name": "Defender of the Faith",
         "type": "Enhancer",
-        "uniques": ["[+20]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"]
+        "uniques": [ "Only available <with [EnhancerBelief]> <hidden from users>","[+10]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"]
         // ToDo: Should only be friendly territory of cities that follow this religion
     },
     {
         "name": "Holy Order",
         "type": "Enhancer",
-        "uniques": ["[Faith] cost of purchasing [Missionary] units [-30]%", "[Faith] cost of purchasing [Inquisitor] units [-30]%"]
+        "uniques": [ "Only available <with [EnhancerBelief]> <hidden from users>","[Faith] cost of purchasing [Missionary] units [-30]%", "[Faith] cost of purchasing [Inquisitor] units [-30]%"]
     },
     {
         "name": "Itinerant Preachers",
         "type": "Enhancer",
-        "uniques": ["Religion naturally spreads to cities [+3] tiles away"]
+        "uniques": [ "Only available <with [EnhancerBelief]> <hidden from users>","Religion naturally spreads to cities [+3] tiles away"]
     },
     {
         "name": "Just War",
         "type": "Enhancer",
-        "uniques": ["[+20]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>"]
+        "uniques": [ "Only available <with [EnhancerBelief]> <hidden from users>","[+10]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>"]
         // ToDo: Should only be enemy territory of cities that follow this religion
     },
     {
         "name": "Messiah",
         "type": "Enhancer",
-        "uniques": ["[+25]% Spread Religion Strength <for [Great Prophet] units>", "[-25]% Faith cost of generating Great Prophet equivalents"]
+        "uniques": [ "Only available <with [EnhancerBelief]> <hidden from users>","[+25]% Spread Religion Strength <for [Great Prophet] units>", "[-25]% Faith cost of generating Great Prophet equivalents"]
     },
     {
         "name": "Missionary Zeal",
         "type": "Enhancer",
-        "uniques": ["[+25]% Spread Religion Strength <for [Missionary] units>"]
+        "uniques": [ "Only available <with [EnhancerBelief]> <hidden from users>","[+25]% Spread Religion Strength <for [Missionary] units>"]
     },
     {
         "name": "Religious Texts",
         "type": "Enhancer",
-        "uniques": ["[+34]% Natural religion spread [in all cities]", "[+34]% Natural religion spread [in all cities] <after discovering [Printing Press]>"]
+        "uniques": [ "Only available <with [EnhancerBelief]> <hidden from users>","[+34]% Natural religion spread [in all cities]", "[+34]% Natural religion spread [in all cities] <after discovering [Printing Press]>"]
     },
     {
         "name": "Religious Unity",
         "type": "Enhancer",
-        "uniques": ["[+100]% Natural religion spread [in City-State cities]"]
+        "uniques": [ "Only available <with [EnhancerBelief]> <hidden from users>","[+100]% Natural religion spread [in City-State cities]"]
     },
     {
         "name": "Reliquary",
         "type": "Enhancer",
-        "uniques": ["[+2 Culture, +4 Faith] from every [Holy site]"]
+        "uniques": [ "Only available <with [EnhancerBelief]> <hidden from users>","[+2 Culture, +4 Faith] from every [Holy site]"]
     }
+	 ////////////////////////////////////// Enhancer Reformation beliefs ///////////////////////////////////////
+
+    {
+        "name": "Charitable Missions",
+        "type": "Enhancer",
+        "uniques": ["Only available <after enhancing a religion> <after adopting [Reformation]> <before adopting [Evangelism]> <before adopting [Jesuit Education]> <before adopting [Religious Fervor]> <before adopting [Holy Workers]> <before adopting [To the Glory of God]> <hidden from users>","Gifts of Gold to City-States generate [30]% more Influence"]
+    },
+	{
+        "name": "Evangelism",
+        "type": "Enhancer",
+        "uniques": ["Only available <after enhancing a religion> <after adopting [Reformation]> <before adopting [Charitable Missions]> <before adopting [Jesuit Education]> <before adopting [Religious Fervor]> <before adopting [Holy Workers]> <before adopting [To the Glory of God]> <hidden from users>","Missionaries remove other religions when spreading religion","[Missionary] units gain the [Evangelist] promotion <hidden from users>"]
+    },
+	{
+        "name": "Jesuit Education",
+        "type": "Enhancer",
+        "uniques": ["Only available <after enhancing a religion> <after adopting [Reformation]> <before adopting [Charitable Missions]> <before adopting [Evangelism]> <before adopting [Religious Fervor]> <before adopting [Holy Workers]> <before adopting [To the Glory of God]> <hidden from users>","May buy [Science] buildings with [Faith] for [2] times their normal Production cost"]
+    },
+	{
+        "name": "Religious Fervor",
+        "type": "Enhancer",
+        "uniques": ["Only available  <after enhancing a religion> <after adopting [Reformation]> <before adopting [Charitable Missions]> <before adopting [Evangelism]> <before adopting [Jesuit Education]> <before adopting [Holy Workers]> <before adopting [To the Glory of God]> <hidden from users>","May buy [{Military} {Land}] units with [Faith] for [3] times their normal Production cost <starting from the [Industrial era]>"]
+    },
+	{
+        "name": "To the Glory of God",
+        "type": "Enhancer",
+        "uniques": ["Only available <after enhancing a religion> <after adopting [Reformation]> <before adopting [Charitable Missions]> <before adopting [Evangelism]> <before adopting [Jesuit Education]> <before adopting [Religious Fervor]> <before adopting [Holy Workers]> <hidden from users>","May buy Great People units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>", 
+		"May buy [Great General] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]> <hidden from users>",
+		"May buy [Great Scientist] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]> <hidden from users>",
+		"May buy [Great Engineer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]> <hidden from users>",
+		"May buy [Great Artist] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]> <hidden from users>",
+		"May buy [Great Merchant] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]> <hidden from users>"]
+    },
+	{
+        "name": "Holy Workers",
+        "type": "Enhancer",
+        "uniques": ["Only available <after enhancing a religion> <after adopting [Reformation]> <before adopting [Charitable Missions]> <before adopting [Evangelism]> <before adopting [Jesuit Education]> <before adopting [Religious Fervor]> <before adopting [To the Glory of God]> <hidden from users>","May buy [Production] buildings with [Faith] for [2] times their normal Production cost"]
+    },
 ]

@@ -244,6 +244,16 @@
                 "row": 1,
                 "column": 5
             },
+			{
+                "name": "Free Religion",
+                "uniques": [
+                    "[+1 Culture, +1 Faith] [in all cities]",
+                    "[+25]% [Science] from every [Grand Temple]",
+                    "[+1 Science] from every [Holy site]"],
+                "requires": ["Organized Religion"],
+                "row": 2,
+                "column": 1
+            },
             {
                 "name": "Theocracy",
                 "uniques": ["[+33]% [Gold] from every [Grand Temple]",
@@ -252,34 +262,24 @@
                     "[+2 Gold] from every [Holy site]"],
                 "requires": ["Organized Religion"],
                 "row": 2,
-                "column": 1
+                "column": 3
             },
             {
                 "name": "Reformation",
                 "uniques": [
-				"May choose [1] additional [Enhancer] beliefs when [founding] a religion",
-                    "Gain a free [Enhancer] belief <after founding a religion>",
+				"Gain a free [Enhancer] belief <upon turn end> <after enhancing a religion> <before adopting [Evangelism]> <before adopting [Charitable Missions]> <before adopting [Jesuit Education]> <before adopting [Religious Fervor]> <before adopting [Holy Workers]> <before adopting [To the Glory of God]> <hidden from users>",
+					"Choose a free Reformation Enhancer belief after enhancing a religion",
 			"[+1 Happiness] from every [Temple]"
                 ],
-                "requires": ["Organized Religion"],
-                "row": 2,
-                "column": 3
-            },
-            {
-                "name": "Free Religion",
-                "uniques": [
-                    "[+1 Culture, +1 Faith] [in all cities]",
-                    "[+25]% [Science] from every [Grand Temple]",
-                    "[+1 Science] from every [Holy site]"],
-                "requires": ["Mandate Of Heaven", "Reformation"],
+                "requires": ["Theocracy"],
                 "row": 3,
-                "column": 4
+                "column": 3
             },
             {
                 "name": "Piety Complete",
                 "uniques": [
                    "Free [Great Prophet] appears",
-                    "[+2 Culture, +3 Faith, +1 Food, +1 Production] from every [Holy site]",
+                    "[+2 Culture, +4 Faith] from every [Holy site]",
                     "Provides a [Garden] in your first [4] cities for free",
 			"[-25]% Faith cost of generating Great Prophet equivalents"
 			
