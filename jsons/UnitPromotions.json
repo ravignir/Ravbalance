@@ -785,4 +785,8 @@
             "[+10]% Strength <when fighting in [Hill] tiles>"
         ]
     },
+	{
+		"name": "City State Worker",
+		"uniques": ["Uncapturable"]
+	},
 ]

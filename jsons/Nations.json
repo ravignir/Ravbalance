@@ -1037,6 +1037,7 @@
 		"defeated": "I guess you weren't here for the sprouts after all...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [153,255,51],
+		"uniques": ["[Worker] units gain the [City State Worker] promotion","Free [Warrior] appears <upon founding a city>"],
 		"cities": ["Brussels"]
 	},
 	{
@@ -1049,6 +1050,7 @@
 		"defeated": "And so the flower of Florence falls to barbaric hands...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [62,197,252],
+		"uniques": ["[Worker] units gain the [City State Worker] promotion","Free [Warrior] appears <upon founding a city>"],
 		"cities": ["Florence"]
 	},
 	{
@@ -1061,6 +1063,7 @@
 		"defeated": "So this is how it feels to die...",
 		"outerColor": [0, 0, 0],
         "innerColor": [51,51,255],
+		"uniques": ["[Worker] units gain the [City State Worker] promotion","Free [Warrior] appears <upon founding a city>"],
 		"cities": ["Hanoi"]
 	},
 	{
@@ -1073,6 +1076,7 @@
 		"defeated": "Unacceptable!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [168,38,102],
+		"uniques": ["[Worker] units gain the [City State Worker] promotion","Free [Warrior] appears <upon founding a city>"],
 		"cities": ["Kabul"]
 	},
 	{
@@ -1085,6 +1089,7 @@
 		"defeated": "Today, the Malay people obey you, but do not think this is over...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [0,102,102],
+		"uniques": ["[Worker] units gain the [City State Worker] promotion","Free [Warrior] appears <upon founding a city>"],
 		"cities": ["Kuala Lumpur"]
 	},
 	{
@@ -1097,6 +1102,7 @@
 		"defeated": "Perhaps now we will find peace in death...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [204,102,0],
+		"uniques": ["[Worker] units gain the [City State Worker] promotion","Free [Warrior] appears <upon founding a city>"],
 		"cities": ["Lhasa"]
 	},
 	{
@@ -1109,6 +1115,7 @@
 		"defeated": "You fiend! History shall remember this!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [185,132,66],
+		"uniques": ["[Worker] units gain the [City State Worker] promotion","Free [Warrior] appears <upon founding a city>"],
 		"cities": ["Milan"]
 	},
 	{
@@ -1121,6 +1128,7 @@
 		"defeated": "We were too weak to protect ourselves...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [51,102,0],
+		"uniques": ["[Worker] units gain the [City State Worker] promotion","Free [Warrior] appears <upon founding a city>"],
 		"cities": ["Quebec City"]
 	},
 
@@ -1134,6 +1142,7 @@
 		"defeated": "I have failed. May you, at least, know compassion towards our people.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,153,153],
+		"uniques": ["[Worker] units gain the [City State Worker] promotion","Free [Warrior] appears <upon founding a city>"],
 		"cities": ["Cape Town"]
 	},
 	{
@@ -1146,6 +1155,7 @@
 		"defeated": "The day of judgement has come to us. But rest assured, the same will go for you!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,178,102],
+		"uniques": ["[Worker] units gain the [City State Worker] promotion","Free [Warrior] appears <upon founding a city>"],
 		"cities": ["Helsinki"]
 	},
 	{
@@ -1158,6 +1168,7 @@
 		"defeated": "Ah, Gods! Why have you forsaken us?",
 		"outerColor": [0, 0, 0],
 		"innerColor": [96,96,96],
+		"uniques": ["[Worker] units gain the [City State Worker] promotion","Free [Warrior] appears <upon founding a city>"],
 		"cities": ["Manila"]
 	},
 	{
@@ -1170,6 +1181,7 @@
 		"defeated": "Congratulations, conqueror. This tribe serves you now.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [224,224,224],
+		"uniques": ["[Worker] units gain the [City State Worker] promotion","Free [Warrior] appears <upon founding a city>"],
 		"cities": ["Mogadishu"]
 	},
 	{
@@ -1183,6 +1195,7 @@
 		"defeated": "May God grant me these last wishes - peace and prosperity for Brazil.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [211, 220, 103],
+		"uniques": ["[Worker] units gain the [City State Worker] promotion","Free [Warrior] appears <upon founding a city>"],
 		"cities": ["Rio de Janeiro"]
 	},
 	{
@@ -1195,6 +1208,7 @@
 		"defeated": "The principles for which we have fought will survive longer than any nation you could ever build.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,204,204],
+		"uniques": ["[Worker] units gain the [City State Worker] promotion","Free [Warrior] appears <upon founding a city>"],
 		"cities": ["Sydney"]
 	},
 	{
@@ -1208,6 +1222,7 @@
 		"defeated": "What treachery has struck us? No, what evil?",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,69,0],
+		"uniques": ["[Worker] units gain the [City State Worker] promotion","Free [Warrior] appears <upon founding a city>"],
 		"cities": ["Ur"]
 	},
 	{
@@ -1220,6 +1235,7 @@
 		"defeated": "I regret not defending my country to the last, although it was not of use.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [0,255,128],
+		"uniques": ["[Worker] units gain the [City State Worker] promotion","Free [Warrior] appears <upon founding a city>"],
 		"cities": ["Vancouver"]
 	},
 	{
@@ -1233,6 +1249,7 @@
 		"defeated": "A wrong calculation, on my part.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [153,204,255],
+		"uniques": ["[Worker] units gain the [City State Worker] promotion","Free [Warrior] appears <upon founding a city>"],
 		"cities": ["Venice"]
 	},
 
@@ -1247,6 +1264,7 @@
 		"defeated": "They will write songs of this.... pray that they shall be in your favor.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [194,97,255],
+		"uniques": ["[Worker] units gain the [City State Worker] promotion","Free [Warrior] appears <upon founding a city>"],
 		"cities": ["Antwerp"]
 	},
 	{
@@ -1260,6 +1278,7 @@
 		"defeated": "How barbaric. Those who live by the sword shall perish by the sword.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [45,255,86],
+		"uniques": ["[Worker] units gain the [City State Worker] promotion","Free [Warrior] appears <upon founding a city>"],
 		"cities": ["Genoa"]
 	},
 	{
@@ -1272,6 +1291,7 @@
 		"defeated": "We... defeated? No... we had so much work to do!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [151,125,0],
+		"uniques": ["[Worker] units gain the [City State Worker] promotion","Free [Warrior] appears <upon founding a city>"],
 		"cities": ["Kathmandu"]
 	},
 	{
@@ -1284,6 +1304,7 @@
 		"defeated": "Perhaps, in another world, we could have been friends...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,255,0],
+		"uniques": ["[Worker] units gain the [City State Worker] promotion","Free [Warrior] appears <upon founding a city>"],
 		"cities": ["Singapore"]
 	},
 	{
@@ -1297,6 +1318,7 @@
 		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,97,255],
+		"uniques": ["[Worker] units gain the [City State Worker] promotion","Free [Warrior] appears <upon founding a city>"],
 		"cities": ["Tyre"]
 	},
 	{
@@ -1309,6 +1331,7 @@
 		"defeated": "May the Heavens forgive you for inflicting this humiliation to our people.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,153,255],
+		"uniques": ["[Worker] units gain the [City State Worker] promotion","Free [Warrior] appears <upon founding a city>"],
 		"cities": ["Zanzibar"]
 	},
 
@@ -1322,6 +1345,7 @@
 		"defeated": "How could we fall to the likes of you?!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [152,0,241],
+		"uniques": ["[Worker] units gain the [City State Worker] promotion","Free [Warrior] appears <upon founding a city>"],
 		"cities": ["Almaty"]
 	},
 	{
@@ -1334,6 +1358,7 @@
 		"defeated": "The serbian guerilla will never stop haunting you!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [211,180,113],
+		"uniques": ["[Worker] units gain the [City State Worker] promotion","Free [Warrior] appears <upon founding a city>"],
 		"cities": ["Belgrade"]
 	},
 	{
@@ -1347,6 +1372,7 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [211,180,113],
 		"cities": ["Dublin"],
+		"uniques": ["[Worker] units gain the [City State Worker] promotion","Free [Warrior] appears <upon founding a city>"],
 		"uniques": ["Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"]
 	},
 	{
@@ -1360,6 +1386,7 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [0,102,102],
 		"cities": ["Edinburgh"],
+		"uniques": ["[Worker] units gain the [City State Worker] promotion","Free [Warrior] appears <upon founding a city>"],
 		"uniques": ["Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"]
 	},
 	{
@@ -1372,6 +1399,7 @@
 		"defeated": "You are nothing but a glorified barbarian. Cruel, and ruthless.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,128,0],
+		"uniques": ["[Worker] units gain the [City State Worker] promotion","Free [Warrior] appears <upon founding a city>"],
 		"cities": ["M'Banza-Kongo"]
 	},
 	{
@@ -1384,6 +1412,7 @@
 		"defeated": "What a fine battle! Sidon is willing to serve you!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [250,128,114],
+		"uniques": ["[Worker] units gain the [City State Worker] promotion","Free [Warrior] appears <upon founding a city>"],
 		"cities": ["Sidon"]
 	},
 	{
@@ -1396,6 +1425,7 @@
 		"defeated": "This ship may sink, but our spirits will linger.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [0,102,102],
+		"uniques": ["[Worker] units gain the [City State Worker] promotion","Free [Warrior] appears <upon founding a city>"],
 		"cities": ["Valletta"]
 	},
 
@@ -1409,6 +1439,7 @@
 		"defeated": "Why have you forsaken us my lord?",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,255,255],
+		"uniques": ["[Worker] units gain the [City State Worker] promotion","Free [Warrior] appears <upon founding a city>"],
 		"cities": ["Bratislava"]
 	},
 	{
@@ -1421,6 +1452,7 @@
 		"defeated": "This isn't how it is supposed to be!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [203, 253, 232],
+		"uniques": ["[Worker] units gain the [City State Worker] promotion","Free [Warrior] appears <upon founding a city>"],
 		"cities": ["Cahokia"]
 	},
 	{
@@ -1433,6 +1465,7 @@
 		"defeated": "I for one welcome our new conquer overlord!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [198,255,192],
+		"uniques": ["[Worker] units gain the [City State Worker] promotion","Free [Warrior] appears <upon founding a city>"],
 		"cities": ["Jerusalem"]
 	},
 

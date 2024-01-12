@@ -173,7 +173,7 @@
     {
         "name": "Holy Warriors",
         "type": "Follower",
-        "uniques": ["May buy [{Military} {Land}] units with [Faith] for [3] times their normal Production cost <before the [Industrial era]>"]
+        "uniques": ["May buy [{Military} {Land}] units with [Faith] for [2] times their normal Production cost <before the [Medieval era]>","May buy [{Military} {Land}] units with [Faith] for [3] times their normal Production cost <starting from the [Medievall era]> <before the [Industrial era]>"]
     },
     {
         "name": "Liturgical Drama",
@@ -334,9 +334,9 @@
         "type": "Enhancer",
         "uniques": ["Only available <after enhancing a religion> <after adopting [Reformation]> <before adopting [Sacred Sites]> <before adopting [Charitable Missions]> <before adopting [Evangelism]> <before adopting [Religious Fervor]> <before adopting [Holy Workers]> <before adopting [To the Glory of God]> <hidden from users>",
 		"May buy [University] buildings with [Faith] for [2] times their normal Production cost",
-		"May buy [Public School] buildings with [Faith] for [2] times their normal Production cost",
+		"May buy [Public School] buildings with [Faith] for [3] times their normal Production cost",
 		"May buy [Observatory] buildings with [Faith] for [2] times their normal Production cost",
-		"May buy [Research Lab] buildings with [Faith] for [2] times their normal Production cost"]
+		"May buy [Research Lab] buildings with [Faith] for [3] times their normal Production cost"]
     },
 	{
         "name": "Religious Fervor",
@@ -359,10 +359,10 @@
         "uniques": ["Only available <after enhancing a religion> <after adopting [Reformation]> <before adopting [Sacred Sites]> <before adopting [Charitable Missions]> <before adopting [Evangelism]> <before adopting [Jesuit Education]> <before adopting [Religious Fervor]> <before adopting [To the Glory of God]> <hidden from users>",
 		"May buy [Workshop] buildings with [Faith] for [2] times their normal Production cost",
 		"May buy [Windmill] buildings with [Faith] for [2] times their normal Production cost",
-		"May buy [Hydro Plant] buildings with [Faith] for [2] times their normal Production cost",
-		"May buy [Factory] buildings with [Faith] for [2] times their normal Production cost",
-		"May buy [Nuclear Plant] buildings with [Faith] for [2] times their normal Production cost",
-		"May buy [Solar Plant] buildings with [Faith] for [2] times their normal Production cost"]
+		"May buy [Hydro Plant] buildings with [Faith] for [3] times their normal Production cost",
+		"May buy [Factory] buildings with [Faith] for [3] times their normal Production cost",
+		"May buy [Nuclear Plant] buildings with [Faith] for [3] times their normal Production cost",
+		"May buy [Solar Plant] buildings with [Faith] for [3] times their normal Production cost"]
     },
 	{
         "name": "Sacred Sites",
